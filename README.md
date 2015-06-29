@@ -39,7 +39,7 @@ http://redmine.froxlor.org/projects/froxlor/wiki
 
 ## License
 
-May be found in COPYING
+May be found in [COPYING](COPYING)
 
 ## Downloads
 
